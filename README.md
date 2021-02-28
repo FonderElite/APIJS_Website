@@ -1,5 +1,5 @@
 # API_JS Website
-![](<img src="" width: "50=100x20)
+![](https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png=100x20)
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
