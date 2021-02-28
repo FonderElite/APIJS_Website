@@ -1,0 +1,39 @@
+local_data = {
+    
+  "username": "FonderElite",
+  "name": "FonderElite",
+  "honor": 301,
+  "clan": "NetHunters",
+  "leaderboardPosition": 112980,
+  "skills": [
+  "JavaScript",
+  "Python",
+  "C++"
+  ],
+  "ranks": {
+  "overall": {
+  "rank": -5,
+  "name": "5 kyu",
+  "color": "yellow",
+  "score": 270
+  },
+  "languages": {
+  "javascript": {
+  "rank": -6,
+  "name": "6 kyu",
+  "color": "yellow",
+  "score": 154
+  },
+  "python": {
+  "rank": -6,
+  "name": "6 kyu",
+  "color": "yellow",
+  "score": 116
+  }
+  }
+  },
+  "codeChallenges": {
+  "totalAuthored": 0,
+  "totalCompleted": 42
+  }
+}
