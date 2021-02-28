@@ -91,8 +91,8 @@ $(document).ready(function(){
 })
 
 //Weather api
-//url: https://aerisweather1.p.rapidapi.com/observations/usa/?rapidapi-key=f8f0476130mshfba1f16141398adp1b595ejsn37ef36cda11a
-const apikey = 'f8f0476130mshfba1f16141398adp1b595ejsn37ef36cda11a';
+//url: https://aerisweather1.p.rapidapi.com/observations/usa/?rapidapi-key={apikey}
+const apikey = '';
 const api_url =`https://aerisweather1.p.rapidapi.com/observations/usa/?rapidapi-key=${apikey}`;
 
 async function jsonData(){
