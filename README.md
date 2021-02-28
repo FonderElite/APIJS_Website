@@ -3,12 +3,12 @@
 
 Website Using weather api in ```rapidapi.com```
 
-# Features
+## Features
  - [x] Great UI/UX
  - [x] Accurate API
  - [x] Beta Version
 
-# Benefits
+## Benefits
 - [x] Doesnt need much dependencies.
 - [x]  Supports all devices!
 - [x]  It's less buggy but still has bugs.
@@ -18,10 +18,10 @@ Website Using weather api in ```rapidapi.com```
 [x] - ```https://github.com/FonderElite/APIJS_Website/```
 [x] - Use an IDE like VScode or any text editor you prefer. 
 
-# What is JavaScript?
+## What is JavaScript?
 JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
-### Top Usage for the  JavaScript
+## Top Usage for the  JavaScript
 > Web Development
 > Game Development
 > Machine Learning and Artificial Intelligence
@@ -38,7 +38,8 @@ JavaScript, often abbreviated as JS, is a programming language that conforms to 
 * [JavaScript]() - High level Programming language
 * [Github]() - Platform where devs contribute their code for all to see.
 * [Youtube]() - Cant google? Watch Youtube.
-### Links
+* 
+## Links
 | Linked | Socials|
 | ------ | ------ |
 | GitHub | [https://github.com]() |
