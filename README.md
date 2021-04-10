@@ -38,7 +38,7 @@ JavaScript, often abbreviated as JS, is a programming language that conforms to 
 * [JavaScript]() - High level Programming language
 * [Github]() - Platform where devs contribute their code for all to see.
 * [Youtube]() - Cant google? Watch Youtube.
-* 
+
 ## Links
 | Linked | Socials|
 | ------ | ------ |
